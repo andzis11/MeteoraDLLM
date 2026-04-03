@@ -79,7 +79,7 @@ python main.py
 |---|---|
 | `WALLET_PRIVATE_KEY` | Private key Solana (base58) |
 | `RPC_URL` | Solana RPC URL (default: Helius) |
-| `MINIMAX_API_KEY` | API key MiniMax ([api.minimax.io](https://api.minimax.io)) |
+| `MINIMAX_API_KEY` | API key MiniMax ([api.minimax.io](https://platform.minimax.io) |
 | `TELEGRAM_BOT_TOKEN` | Token bot Telegram (dari @BotFather) |
 | `TELEGRAM_CHAT_ID` | Chat ID (opsional, bot auto-detect) |
 
