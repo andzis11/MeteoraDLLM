@@ -53,6 +53,7 @@ meteora_lp_bot/
 ```bash
 git clone https://github.com/andzis11/meteora-lp-bot.git
 cd meteora-lp-bot
+#
 pip install -r requirements.txt
 ```
 
