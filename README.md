@@ -51,7 +51,7 @@ meteora_lp_bot/
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/USERNAME/meteora-lp-bot.git
+git clone https://github.com/andzis11/meteora-lp-bot.git
 cd meteora-lp-bot
 pip install -r requirements.txt
 ```
