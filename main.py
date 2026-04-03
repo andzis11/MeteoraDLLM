@@ -3,6 +3,8 @@
 Meridian-Enhanced LP Bot - Main Entry Point
 """
 
+import utils.transport
+import utils.session
 import asyncio
 import logging
 from dotenv import load_dotenv
