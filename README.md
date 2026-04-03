@@ -1,5 +1,4 @@
-# 🤖 Meteora LP Bot (Meridian-Enhanced)
-
+# 🤖 Meteora LP Bot 
 Bot otomatis untuk Liquidity Provider di **Meteora DLMM** (Solana), diperkuat dengan arsitektur dari Meridian.
 
 ---
@@ -158,3 +157,4 @@ Setelah 5+ posisi ditutup, bot menganalisis performance dan menyesuaikan filter 
 ## ⚠️ Disclaimer
 
 Software ini disediakan apa adanya tanpa garansi. Menjalankan bot trading otomatis membawa risiko finansial nyata — kamu bisa kehilangan dana. Selalu mulai dengan mode simulasi (`DRY_RUN=true`) sebelum live. Jangan deploy lebih dari yang kamu siap kehilangan. Ini bukan financial advice.
+
